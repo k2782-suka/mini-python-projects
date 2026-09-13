@@ -10,7 +10,7 @@ except ImportError:
 
 
 
-WINDOW_TITLE = "Github python"
+WINDOW_TITLE = "Github Window"
 GITHUB_LINK = "https://github.com/k2782-suka"
 LOGO_FILE = "lucky_patcher.png"
 
